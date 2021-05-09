@@ -1,7 +1,7 @@
 /* Main page with stikky-footer */
 html, body {
   height: 100%;
-  background-color: #fff;
+  background-color: #ffffff;
   font-family: 'Source Sans Pro', sans-serif;
   /* The html and body elements cannot have any padding or margin. */
   border-top: 2px solid #841617;
@@ -127,6 +127,7 @@ html, body {
 .panel-body {
   padding-top: -10px;
   text-align: left;
+   background-color: #ffffff;
 }
 .social-links {
   display: block;
@@ -179,6 +180,7 @@ html, body {
   text-align: left;
   line-height: 30px;
   font-size: 18px;
+   background-color: #ffffff;
 }
 
 /* Footer  */

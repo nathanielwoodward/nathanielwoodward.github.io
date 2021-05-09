@@ -12,5 +12,13 @@ description: ''
 
 ```{R}
 summary(iris)
+library(reticulate)
+```
+$$ \sum_i^N$$
+
+
+```{python}
+import pandas as pd
+#import matplotlib as plt
 
 ```
